@@ -6,7 +6,6 @@ Our implementations of NCFW and NCBS are based on implementations of FW and BS (
 Different variants of NCLR were implemented based on Patrini et al. (2017) ([link to code](https://github.com/giorgiop/loss-correction)).
 See Section 6 of our paper for details.
 
-Due to the size limit for supplementary materials, we cannot include all data.
 
 **Command lines for real data experiments**
 
